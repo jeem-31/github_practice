@@ -7,3 +7,7 @@ def power_level(level):
 
 print(greet("Future Coder"))
 print(power_level(9001))
+print(greet("Future Coder"))
+print(power_level(9001))
+print(greet("Future Coder"))
+print(power_level(9001))
